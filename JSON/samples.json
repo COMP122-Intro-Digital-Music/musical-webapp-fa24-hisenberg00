@@ -1,19 +1,19 @@
 [
   {
     "name": "Curry",
-    "file": "samples/.wav",
+    "file": "samples/Curry.wav",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "Rhythm",
-    "file": "samples/.wav",
+    "file": "samples/Rhythm.wav",
     "bpm": "120",
     "loop": "3m"
   },
   {
-    "name": "",
-    "file": "samples/",
+    "name": "Livin",
+    "file": "samples/LIVIN.wav",
     "bpm": "120",
     "loop": "1m"
   }
